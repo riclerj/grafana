@@ -4,5 +4,11 @@
     "name" : "CEASA",
     "latitude" : -22.903057,
     "longitude" : -43.183208
+  },
+  {
+    "key" : "haddock",
+    "name" : "Haddock Lobo",
+    "latitude" : -22.903057,
+    "longitude" : -43.183208
   }
 ]
