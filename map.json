@@ -6,6 +6,12 @@
     "longitude" : -43.183208
   },
   {
+    "key" : "cedoc",
+    "name" : "CEDOC",
+    "latitude" : -22.903352,
+    "longitude" : -43.214163
+  },
+  {
     "key" : "haddock",
     "name" : "Haddock Lobo",
     "latitude" : -22.915254572726298,
