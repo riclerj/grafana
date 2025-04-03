@@ -34,5 +34,23 @@
     "name" : "Aperibé",
     "latitude" : -21.621557223283727,
     "longitude" : -42.10220178567776
+  },
+  {
+    "key" : "areal",
+    "name" : "Areal",
+    "latitude" : -22.2395314167598,
+    "longitude" : -43.1004084256938
+  },
+  {
+    "key" : "angra1",
+    "name" : "Angra dos Reis 1",
+    "latitude" : -23.01391817640837,
+    "longitude" : -44.299006706086615
+  },
+  {
+    "key" : "angra2",
+    "name" : "Angra dos Reis 2",
+    "latitude" : -23.004286803867412,
+    "longitude" : -44.31153998882892
   }
 ]
