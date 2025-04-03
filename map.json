@@ -22,5 +22,17 @@
     "name" : "Arraial do Cabo",
     "latitude" : -22.972785155335565,
     "longitude" : -42.0279811420784
+  },
+  {
+    "key" : "araruama",
+    "name" : "Araruama",
+    "latitude" : -22.972785155335565,
+    "longitude" : -42.0279811420784
+  },
+  {
+    "key" : "aperibe",
+    "name" : "Aperibé",
+    "latitude" : -21.621557223283727,
+    "longitude" : -42.10220178567776
   }
 ]
