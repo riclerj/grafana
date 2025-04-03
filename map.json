@@ -16,5 +16,11 @@
     "name" : "Haddock Lobo",
     "latitude" : -22.915254572726298,
     "longitude" : -43.20843900840486
+  },
+  {
+    "key" : "arraial",
+    "name" : "Arraial do Cabo",
+    "latitude" : -22.972785155335565,
+    "longitude" : -42.0279811420784
   }
 ]
