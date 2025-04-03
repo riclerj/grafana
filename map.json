@@ -52,5 +52,41 @@
     "name" : "Angra dos Reis 2",
     "latitude" : -23.004286803867412,
     "longitude" : -44.31153998882892
+  },
+  {
+    "key" : "belfordroxo",
+    "name" : "belfordroxo",
+    "latitude" : -22.777114623662772,
+    "longitude" : -43.39667211344106
+  },
+  {
+    "key" : "prefbelfordroxo",
+    "name" : "prefbelfordroxo",
+    "latitude" : -22.75595996706876,
+    "longitude" : -43.408411707861816
+  },
+  {
+    "key" : "bomjesusitabapoana",
+    "name" : "bomjesusitabapoana",
+    "latitude" : -21.13314096142499,
+    "longitude" : -41.67993425933932
+  },
+  {
+    "key" : "bomjardim",
+    "name" : "bomjardim",
+    "latitude" : -22.15062928729784,
+    "longitude" : -42.42065019183728
+  },
+  {
+    "key" : "barramansa",
+    "name" : "barramansa",
+    "latitude" : -22.52964967730553,
+    "longitude" : -44.18702156008618
+  },
+  {
+    "key" : "barradopirai",
+    "name" : "barradopirai",
+    "latitude" : -22.471090256189786,
+    "longitude" : -43.83152104351095
   }
 ]
