@@ -88,5 +88,23 @@
     "name" : "barradopirai",
     "latitude" : -22.471090256189786,
     "longitude" : -43.83152104351095
+  },
+  {
+    "key" : "cabofrio",
+    "name" : "cabofrio",
+    "latitude" : -22.880918394830722,
+    "longitude" : -42.01568807371848
+  },
+  {
+    "key" : "cabofrio2",
+    "name" : "cabofrio2",
+    "latitude" : -22.888450864708044,
+    "longitude" : -42.03190398084443
+  },
+  {
+    "key" : "unamar",
+    "name" : "unamar",
+    "latitude" : -22.649743600830885,
+    "longitude" : -42.00414386850735
   }
 ]
