@@ -136,5 +136,35 @@
     "name" : "Cordeiro 1",
     "latitude" : -22.02679975028139,
     "longitude" : -42.36126402305986
+  },
+  {
+    "key" : "cardoso",
+    "name" : "Cardoso Moreira",
+    "latitude" : -21.488132081664695,
+    "longitude" : -41.61688521369815
+  },
+  {
+    "key" : "cachoeiras",
+    "name" : "Cachoeiras de Macacu",
+    "latitude" : -22.473531805909825,
+    "longitude" : -42.657944357729825
+  },
+  {
+    "key" : "cambuci",
+    "name" : "Prefeitura de Cambuci",
+    "latitude" : -21.577281999862578,
+    "longitude" : -41.91165981520631
+  },
+  {
+    "key" : "carmo",
+    "name" : "Carmo",
+    "latitude" : -21.93467767128536,
+    "longitude" : -42.60872157769993
+  },
+  {
+    "key" : "macabu",
+    "name" : "Conceição de Macabu",
+    "latitude" : -22.083210967807126,
+    "longitude" : -41.869209662066176
   }
 ]
