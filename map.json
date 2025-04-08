@@ -55,56 +55,86 @@
   },
   {
     "key" : "belfordroxo",
-    "name" : "belfordroxo",
+    "name" : "Belford Roxo",
     "latitude" : -22.777114623662772,
     "longitude" : -43.39667211344106
   },
   {
     "key" : "prefbelfordroxo",
-    "name" : "prefbelfordroxo",
+    "name" : "Pref. de Belford Roxo",
     "latitude" : -22.75595996706876,
     "longitude" : -43.408411707861816
   },
   {
     "key" : "bomjesusitabapoana",
-    "name" : "bomjesusitabapoana",
+    "name" : "Bom Jesus de Itabapoana",
     "latitude" : -21.13314096142499,
     "longitude" : -41.67993425933932
   },
   {
     "key" : "bomjardim",
-    "name" : "bomjardim",
+    "name" : "Bom Jardim",
     "latitude" : -22.15062928729784,
     "longitude" : -42.42065019183728
   },
   {
     "key" : "barramansa",
-    "name" : "barramansa",
+    "name" : "Barra Mansa",
     "latitude" : -22.52964967730553,
     "longitude" : -44.18702156008618
   },
   {
     "key" : "barradopirai",
-    "name" : "barradopirai",
+    "name" : "Barra do Piraí",
     "latitude" : -22.471090256189786,
     "longitude" : -43.83152104351095
   },
   {
     "key" : "cabofrio",
-    "name" : "cabofrio",
+    "name" : "Cabo Frio",
     "latitude" : -22.880918394830722,
     "longitude" : -42.01568807371848
   },
   {
     "key" : "cabofrio2",
-    "name" : "cabofrio2",
+    "name" : "Cabo Frio 2",
     "latitude" : -22.888450864708044,
     "longitude" : -42.03190398084443
   },
   {
     "key" : "unamar",
-    "name" : "unamar",
+    "name" : "Cabo Frio - Unamar",
     "latitude" : -22.649743600830885,
     "longitude" : -42.00414386850735
+  },
+  {
+    "key" : "buzios",
+    "name" : "Búzios",
+    "latitude" : -22.780940874740057,
+    "longitude" : -41.93726965994755
+  },
+  {
+    "key" : "casimiro1",
+    "name" : "Casimiro de Abreu 1",
+    "latitude" : -22.4781633261952,
+    "longitude" : -42.19796278209626
+  },
+  {
+    "key" : "casimiro",
+    "name" : "Casimiro de Abreu",
+    "latitude" : -22.476247948481195,
+    "longitude" : -42.201042126403145
+  },
+  {
+    "key" : "cordeiro",
+    "name" : "Cordeiro",
+    "latitude" : -22.025100582984237,
+    "longitude" : -42.36043929329093
+  },
+  {
+    "key" : "cordeiro1",
+    "name" : "Cordeiro 1",
+    "latitude" : -22.02679975028139,
+    "longitude" : -42.36126402305986
   }
 ]
