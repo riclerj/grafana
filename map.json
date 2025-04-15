@@ -292,5 +292,29 @@
     "name" : "Itaocara",
     "latitude" : -21.675160417213622,
     "longitude" : -42.07234051156788
+  },
+  {
+    "key" : "itaborai1",
+    "name" : "Itaboraí 1",
+    "latitude" : -22.76704460072921,
+    "longitude" : -42.90622566293286
+  },
+  {
+    "key" : "itaborai2",
+    "name" : "Itaboraí 2",
+    "latitude" : -22.73726889574091,
+    "longitude" : -42.83937832945996
+  },
+  {
+    "key" : "itaperuna1",
+    "name" : "Itaperuna 1",
+    "latitude" : -21.20250954979419,
+    "longitude" : -41.901982069682774
+  },
+  {
+    "key" : "itaperuna2",
+    "name" : "Itaperuna 2",
+    "latitude" : -21.20276419743209,
+    "longitude" : -41.89014676196934
   }
 ]
