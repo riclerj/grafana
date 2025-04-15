@@ -262,5 +262,35 @@
     "name" : "Engenheiro Paulo de Frontin",
     "latitude" : -22.548562643569362,
     "longitude" : -43.677815694043225
+  },
+  {
+    "key" : "guapimirim",
+    "name" : "Guapimirim",
+    "latitude" : -22.53835384153182,
+    "longitude" : -42.98261603133053
+  },
+  {
+    "key" : "iguaba",
+    "name" : "Iguaba Grande",
+    "latitude" : -22.842002425390916,
+    "longitude" : -42.22557955117833
+  },
+  {
+    "key" : "shoppingpatiomixitaguai",
+    "name" : "Shopping Patio Mix Itaguaí",
+    "latitude" : -22.867024677858645,
+    "longitude" : -43.747360480042836
+  },
+  {
+    "key" : "italva",
+    "name" : "Italva",
+    "latitude" : -21.43248086767473,
+    "longitude" : -41.69226296808875
+  },
+  {
+    "key" : "itaocara",
+    "name" : "Itaocara",
+    "latitude" : -21.675160417213622,
+    "longitude" : -42.07234051156788
   }
 ]
