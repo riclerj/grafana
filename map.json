@@ -316,5 +316,35 @@
     "name" : "Itaperuna 2",
     "latitude" : -21.20276419743209,
     "longitude" : -41.89014676196934
+  },
+  {
+    "key" : "itaperuna",
+    "name" : "Itaperuna",
+    "latitude" : -21.215477364077703,
+    "longitude" : -41.88582120477452
+  },
+  {
+    "key" : "itatiaia",
+    "name" : "Itatiaia",
+    "latitude" : -22.491327267292593,
+    "longitude" : -44.56348487675384
+  },
+  {
+    "key" : "japeri",
+    "name" : "Japeri",
+    "latitude" : -22.64322941421274,
+    "longitude" : -43.6551189880944
+  },
+  {
+    "key" : "muriae",
+    "name" : "Laje do Muriaé",
+    "latitude" : -21.203664495313667,
+    "longitude" : -42.125903046041905
+  },
+  {
+    "key" : "macuco",
+    "name" : "Macuco",
+    "latitude" : -21.989890114857296,
+    "longitude" : -42.248201830815844
   }
 ]
