@@ -232,5 +232,35 @@
     "name" : "Saracuruna",
     "latitude" : -22.676500329118955,
     "longitude" : -43.25007105387278
+  },
+  {
+    "key" : "imbarie",
+    "name" : "Imbariê",
+    "latitude" : -22.641416041569723,
+    "longitude" : -43.219706453282974
+  },
+  {
+    "key" : "reduc",
+    "name" : "Duque de Caxias REDUC",
+    "latitude" : -22.711794993244723,
+    "longitude" : -43.287069836198015
+  },
+  {
+    "key" : "hospadaopereira",
+    "name" : "Hospital Adão Pereira Nunes",
+    "latitude" : -22.673158082619217,
+    "longitude" : -43.28376427519754
+  },
+  {
+    "key" : "duasbarras",
+    "name" : "Duas Barras",
+    "latitude" : -22.050244294578864,
+    "longitude" : -42.524737684633315
+  },
+  {
+    "key" : "paulofrontin",
+    "name" : "Engenheiro Paulo de Frontin",
+    "latitude" : -22.548562643569362,
+    "longitude" : -43.677815694043225
   }
 ]
