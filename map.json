@@ -166,5 +166,41 @@
     "name" : "Conceição de Macabu",
     "latitude" : -22.083210967807126,
     "longitude" : -41.869209662066176
+  },
+  {
+    "key" : "levy",
+    "name" : "Levy Gasparian",
+    "latitude" : -22.05557246600918,
+    "longitude" : -43.20632918815219
+  },
+  {
+    "key" : "camposprefeitura2",
+    "name" : "Campos Prefeitura 2",
+    "latitude" : -21.74934998032314,
+    "longitude" : -41.32241069462496
+  },
+  {
+    "key" : "campos2",
+    "name" : "Campos 2",
+    "latitude" : -21.768869619401325,
+    "longitude" : -41.35293267828862
+  },
+  {
+    "key" : "campos",
+    "name" : "Campos",
+    "latitude" : -21.758819373925423,
+    "longitude" : -41.32913903519599
+  },
+  {
+    "key" : "campos1",
+    "name" : "Campos 1",
+    "latitude" : -21.742417811094892,
+    "longitude" : -41.334971876727785
+  },
+  {
+    "key" : "camposguarus",
+    "name" : "Campos Guarus",
+    "latitude" : -21.738374010969785,
+    "longitude" : -41.312041582974786
   }
 ]
