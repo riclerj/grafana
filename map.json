@@ -202,5 +202,35 @@
     "name" : "Campos Guarus",
     "latitude" : -21.738374010969785,
     "longitude" : -41.312041582974786
+  },
+  {
+    "key" : "carapebus1",
+    "name" : "Carapebus 1",
+    "latitude" : -22.187439022198987,
+    "longitude" : -41.662906299601616
+  },
+  {
+    "key" : "carapebus2",
+    "name" : "Carapebus 2",
+    "latitude" : -22.185774753591808,
+    "longitude" : -41.65734794844075
+  },
+  {
+    "key" : "cantagalo",
+    "name" : "Cantagalo",
+    "latitude" : -21.982080031492803,
+    "longitude" : -42.36938708275735
+  },
+  {
+    "key" : "caxiasprefeitura",
+    "name" : "Caxias Prefeitura",
+    "latitude" : -22.791791563329756,
+    "longitude" : -43.3028652993868
+  },
+  {
+    "key" : "saracuruna",
+    "name" : "Saracuruna",
+    "latitude" : -22.676500329118955,
+    "longitude" : -43.25007105387278
   }
 ]
