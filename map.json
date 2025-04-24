@@ -454,5 +454,35 @@
     "name" : "Niterói 1",
     "latitude" : -22.884928286739857,
     "longitude" : -43.11371197995174
+  },
+  {
+    "key" : "niteroi",
+    "name" : "Niterói",
+    "latitude" : -22.8869821264613,
+    "longitude" : -43.08731054786734
+  },
+  {
+    "key" : "niteroimercadomunicipal",
+    "name" : "Niterói Mercado Municipal",
+    "latitude" : -22.88220676484104,
+    "longitude" : -43.11347248944243
+  },
+  {
+    "key" : "natividade",
+    "name" : "Natividade",
+    "latitude" : -21.049276028600314,
+    "longitude" : -41.9583266120223
+  },
+  {
+    "key" : "paraty",
+    "name" : "Paraty",
+    "latitude" : -23.22107651724272,
+    "longitude" : -44.718238241137556
+  },
+  {
+    "key" : "paraty2",
+    "name" : "Paraty 2",
+    "latitude" : -23.21962285993982,
+    "longitude" : -44.74728190335116
   }
 ]
