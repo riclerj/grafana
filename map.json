@@ -346,5 +346,35 @@
     "name" : "Macuco",
     "latitude" : -21.989890114857296,
     "longitude" : -42.248201830815844
+  },
+  {
+    "key" : "macae",
+    "name" : "Macaé",
+    "latitude" : -22.368545429986046,
+    "longitude" : -41.79747436349124
+  },
+  {
+    "key" : "macae1",
+    "name" : "Macaé 1",
+    "latitude" : -22.37987232981369,
+    "longitude" : -41.771319874002465
+  },
+  {
+    "key" : "miracema",
+    "name" : "Miracema",
+    "latitude" : -21.410707240951584,
+    "longitude" : -42.1882138289351
+  },
+  {
+    "key" : "mendes",
+    "name" : "Mendes",
+    "latitude" : -22.526324397590123,
+    "longitude" : -43.730680906423004
+  },
+  {
+    "key" : "mesquita",
+    "name" : "Mesquita",
+    "latitude" : -22.770522543268587,
+    "longitude" : -43.42447788044012
   }
 ]
