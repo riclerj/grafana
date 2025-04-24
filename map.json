@@ -484,5 +484,35 @@
     "name" : "Paraty 2",
     "latitude" : -23.21962285993982,
     "longitude" : -44.74728190335116
+  },
+  {
+    "key" : "paracambi1",
+    "name" : "Paracambi 1",
+    "latitude" : -22.599958025572178,
+    "longitude" : -43.69341462596269
+  },
+  {
+    "key" : "paracambi",
+    "name" : "Paracambi",
+    "latitude" : -22.622421816224637,
+    "longitude" : -43.711642074798036
+  },
+  {
+    "key" : "paraibadosul",
+    "name" : "Paraíba do Sul",
+    "latitude" : -22.13824525391802,
+    "longitude" : -43.25305197323673
+  },
+  {
+    "key" : "paraibadosul1",
+    "name" : "Paraíba do Sul 1",
+    "latitude" : -22.148149534519792,
+    "longitude" : -43.28546061333268
+  },
+  {
+    "key" : "porciuncula",
+    "name" : "Porciúncula",
+    "latitude" : -20.96589719667632,
+    "longitude" : -42.04292474944405
   }
 ]
