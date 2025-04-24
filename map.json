@@ -406,5 +406,35 @@
     "name" : "Miguel Pereira",
     "latitude" : -22.449305692719147,
     "longitude" : -43.45661237844639
+  },
+  {
+    "key" : "marica2",
+    "name" : "Maricá 2",
+    "latitude" : -22.9071941465941,
+    "longitude" : -42.81723972209007
+  },
+  {
+    "key" : "marica",
+    "name" : "Maricá",
+    "latitude" : -22.931378657457326,
+    "longitude" : -42.88157728742524
+  },
+  {
+    "key" : "novaiguacu1",
+    "name" : "Nova Iguaçu 1",
+    "latitude" : -22.76237009825081,
+    "longitude" : -43.46552527191597
+  },
+  {
+    "key" : "novaiguacu",
+    "name" : "Nova Iguaçu",
+    "latitude" : -22.713823372777316,
+    "longitude" : -43.462617009685104
+  },
+  {
+    "key" : "hospitalmarianabulhoes",
+    "name" : "Hospital Estadual Mariana Bulhões",
+    "latitude" : -22.76224396507886,
+    "longitude" : -43.451591321232364
   }
 ]
