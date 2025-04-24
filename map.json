@@ -436,5 +436,29 @@
     "name" : "Hospital Estadual Mariana Bulhões",
     "latitude" : -22.76224396507886,
     "longitude" : -43.451591321232364
+  },
+  {
+    "key" : "nilopolis",
+    "name" : "Nilópolis",
+    "latitude" : -22.808773788734218,
+    "longitude" : -43.4218245949852
+  },
+  {
+    "key" : "novafriburgo1",
+    "name" : "Nova Friburgo 1",
+    "latitude" : -22.260554261832052,
+    "longitude" : -42.531826455419115
+  },
+  {
+    "key" : "niteroi1",
+    "name" : "Niterói 1",
+    "latitude" : -22.884928286739857,
+    "longitude" : -43.11371197995174
+  },
+  {
+    "key" : "niteroishopping",
+    "name" : "Niterói Shopping",
+    "latitude" : -22.894434711639928,
+    "longitude" : -43.118959972613844
   }
 ]
