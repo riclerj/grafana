@@ -376,5 +376,35 @@
     "name" : "Mesquita",
     "latitude" : -22.770522543268587,
     "longitude" : -43.42447788044012
+  },
+  {
+    "key" : "hospitaldamae",
+    "name" : "Hospital Estadual da Mãe",
+    "latitude" : -22.78536777037036,
+    "longitude" : -43.40992989562771
+  },
+  {
+    "key" : "mangaratiba",
+    "name" : "Mangaratiba",
+    "latitude" : -22.961839040672572,
+    "longitude" : -44.04113060375456
+  },
+  {
+    "key" : "mage",
+    "name" : "Magé",
+    "latitude" : -22.66006884013441,
+    "longitude" : -43.03624684176556
+  },
+  {
+    "key" : "miguelpereira1",
+    "name" : "Miguel Pereira 1",
+    "latitude" : -22.461244441966098,
+    "longitude" : -43.48256753718155
+  },
+  {
+    "key" : "miguelpereira",
+    "name" : "Miguel Pereira",
+    "latitude" : -22.449305692719147,
+    "longitude" : -43.45661237844639
   }
 ]
