@@ -514,5 +514,35 @@
     "name" : "Porciúncula",
     "latitude" : -20.96589719667632,
     "longitude" : -42.04292474944405
+  },
+  {
+    "key" : "paty1",
+    "name" : "Paty do Alferes 1",
+    "latitude" : -22.406187042761385,
+    "longitude" : -43.42292994095049
+  },
+  {
+    "key" : "paty2",
+    "name" : "Paty do Alferes 2",
+    "latitude" : -22.406187042761385,
+    "longitude" : -43.42292994095049
+  },
+  {
+    "key" : "pirai",
+    "name" : "Piraí",
+    "latitude" : -22.629165988957997,
+    "longitude" : -43.8986539946656
+  },
+  {
+    "key" : "pinheiral",
+    "name" : "Pinheiral",
+    "latitude" : -22.5031389206022,
+    "longitude" : -44.01392534270329
+  },
+  {
+    "key" : "portoreal",
+    "name" : "Porto Real",
+    "latitude" : -22.416022006339976,
+    "longitude" : -44.293569814221776,
   }
 ]
