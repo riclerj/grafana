@@ -604,5 +604,23 @@
     "name" : "Rio Claro",
     "latitude" : -22.731240802551675,
     "longitude" : -44.1369594209643
+  },
+  {
+    "key" : "riodasflores",
+    "name" : "Rio das Flores",
+    "latitude" : -22.168639008238554,
+    "longitude" : -43.581834875161505
+  },
+  {
+    "key" : "riodasostras",
+    "name" : "Rio das Ostras",
+    "latitude" : -22.496698714746184,
+    "longitude" : -41.92693602410729
+  },
+  {
+    "key" : "proderj",
+    "name" : "PRODERJ",
+    "latitude" : -22.90279224376176,
+    "longitude" : -43.18305610937112
   }
 ]
