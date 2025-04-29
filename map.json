@@ -550,5 +550,35 @@
     "name" : "Petrópolis",
     "latitude" : -22.526787283298507,
     "longitude" : -43.17656869595802
+  },
+  {
+    "key" : "petropolis2",
+    "name" : "Petrópolis 2",
+    "latitude" : -22.523734543781185,
+    "longitude" : -43.17045290792758
+  },
+  {
+    "key" : "petropolisitaipava",
+    "name" : "Petrópolis Estação Itaipava",
+    "latitude" : -22.39561264885431,
+    "longitude" : -43.132831601205154
+  },
+  {
+    "key" : "prefeiturapetropolis",
+    "name" : "Prefeitura de Petrópolis",
+    "latitude" : -22.450276344045545,
+    "longitude" : -43.14430452200575
+  },
+  {
+    "key" : "quatis",
+    "name" : "Quatis",
+    "latitude" : -22.40918873386401,
+    "longitude" : -44.26024633986931
+  },
+  {
+    "key" : "queimados",
+    "name" : "Queimados",
+    "latitude" : -22.70564156594501,
+    "longitude" : -43.566215494609104
   }
 ]
