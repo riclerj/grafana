@@ -544,5 +544,11 @@
     "name" : "Porto Real",
     "latitude" : -22.416022006339976,
     "longitude" : -44.293569814221776
+  },
+  {
+    "key" : "petropolis",
+    "name" : "Petrópolis",
+    "latitude" : -22.526787283298507,
+    "longitude" : -43.17656869595802
   }
 ]
