@@ -724,5 +724,29 @@
     "name" : "Shopping Iguatemi",
     "latitude" : -22.918872725303427,
     "longitude" : -43.2501459516525
+  },
+  {
+    "key" : "viabrasil",
+    "name" : "Shopping Via Brasil",
+    "latitude" : -22.82337506864726,
+    "longitude" : -43.319531787333375
+  },
+  {
+    "key" : "vilaisabel",
+    "name" : "Vila Isabel",
+    "latitude" : -22.914704085711783,
+    "longitude" : -43.24897776938032
+  },
+  {
+    "key" : "tribunal",
+    "name" : "Tribunal de Justiça",
+    "latitude" : -22.90531941471005,
+    "longitude" : -43.17295026774313
+  },
+  {
+    "key" : "downtown",
+    "name" : "Shopping Downtown",
+    "latitude" : -23.00434831487195,
+    "longitude" : -43.315844998551114
   }
 ]
