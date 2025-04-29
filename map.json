@@ -622,5 +622,29 @@
     "name" : "PRODERJ",
     "latitude" : -22.90279224376176,
     "longitude" : -43.18305610937112
+  },
+  {
+    "key" : "transporte",
+    "name" : "Transporte DETRAN",
+    "latitude" : -22.900134822194453,
+    "longitude" : -43.252426894305216
+  },
+  {
+    "key" : "mariaamelia",
+    "name" : "Maternidade Maria Amélia",
+    "latitude" : -22.908790131751424,
+    "longitude" : -43.19121602516116
+  },
+  {
+    "key" : "copacabana",
+    "name" : "Copacabana",
+    "latitude" : -22.96796033297182,
+    "longitude" : -43.18506506807187
+  },
+  {
+    "key" : "cidadedapolicia",
+    "name" : "Cidade da Polícia",
+    "latitude" : -22.88178348368621,
+    "longitude" : -43.25543110742578
   }
 ]
