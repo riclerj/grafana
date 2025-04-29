@@ -580,5 +580,29 @@
     "name" : "Queimados",
     "latitude" : -22.70564156594501,
     "longitude" : -43.566215494609104
+  },
+  {
+    "key" : "quissama",
+    "name" : "Quissamã",
+    "latitude" : -22.107458577911213,
+    "longitude" : -41.470041360514024
+  },
+  {
+    "key" : "riobonito1",
+    "name" : "Rio Bonito 1",
+    "latitude" : -22.70839031728303,
+    "longitude" : -42.62426875801158
+  },
+  {
+    "key" : "riobonito3",
+    "name" : "Rio Bonito 3",
+    "latitude" : -22.71042021704667,
+    "longitude" : -42.62181447358309
+  },
+  {
+    "key" : "rioclaro",
+    "name" : "Rio Claro",
+    "latitude" : -22.731240802551675,
+    "longitude" : -44.1369594209643
   }
 ]
