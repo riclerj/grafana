@@ -748,5 +748,11 @@
     "name" : "Shopping Downtown",
     "latitude" : -23.00434831487195,
     "longitude" : -43.315844998551114
+  },
+  {
+    "key" : "shoppingguadalupe",
+    "name" : "Shopping Jardim Guadalupe",
+    "latitude" : -22.84092950489174,
+    "longitude" : -43.368989487331596
   }
 ]
