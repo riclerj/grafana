@@ -646,5 +646,35 @@
     "name" : "Cidade da Polícia",
     "latitude" : -22.88178348368621,
     "longitude" : -43.25543110742578
+  },
+  {
+    "key" : "campogrande",
+    "name" : "Campo Grande",
+    "latitude" : -22.86423849731249,
+    "longitude" : -43.54363428137041
+  },
+  {
+    "key" : "bicalho",
+    "name" : "Francisco Bicalho",
+    "latitude" : -22.904609281346417,
+    "longitude" : -43.21073563618743
+  },
+  {
+    "key" : "ifp",
+    "name" : "IFP",
+    "latitude" : -22.91360225727723,
+    "longitude" : -43.20236356381644
+  },
+  {
+    "key" : "meier",
+    "name" : "Méier",
+    "latitude" : -22.903168911217705,
+    "longitude" : -43.27758967426408
+  },
+  {
+    "key" : "tubiacanga",
+    "name" : "Ilha Tubiacanga",
+    "latitude" : -22.793344738067617,
+    "longitude" : -43.21120444926205
   }
 ]
