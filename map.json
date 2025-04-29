@@ -676,5 +676,23 @@
     "name" : "Ilha Tubiacanga",
     "latitude" : -22.793344738067617,
     "longitude" : -43.21120444926205
+  },
+  {
+    "key" : "trf2",
+    "name" : "TRF 2ª Região",
+    "latitude" : -22.899322669984745,
+    "longitude" : -43.18159568110159
+  },
+  {
+    "key" : "machadodeassis",
+    "name" : "Machado de Assis",
+    "latitude" : -22.931409071552277,
+    "longitude" : -43.17727748405491
+  },
+  {
+    "key" : "cocota",
+    "name" : "Ilha Cocotá",
+    "latitude" : -22.805018536567943,
+    "longitude" : -43.17858748901513
   }
 ]
