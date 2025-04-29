@@ -694,5 +694,29 @@
     "name" : "Ilha Cocotá",
     "latitude" : -22.805018536567943,
     "longitude" : -43.17858748901513
+  },
+  {
+    "key" : "gavea",
+    "name" : "Gávea",
+    "latitude" : -22.97607396093086,
+    "longitude" : -43.22594010307303
+  },
+  {
+    "key" : "largodomachado",
+    "name" : "Largo do Machado",
+    "latitude" : -22.931066128764847,
+    "longitude" : -43.17734010862542
+  },
+  {
+    "key" : "cedocnovo",
+    "name" : "CEDOC Novo",
+    "latitude" : -22.854749279819487,
+    "longitude" : -43.25525392866675
+  },
+  {
+    "key" : "shoppingpenha",
+    "name" : "Shopping Penha",
+    "latitude" : -22.84042534836032,
+    "longitude" : -43.2804051076978
   }
 ]
