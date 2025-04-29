@@ -718,5 +718,11 @@
     "name" : "Shopping Penha",
     "latitude" : -22.84042534836032,
     "longitude" : -43.2804051076978
+  },
+  {
+    "key" : "shoppingiguatemi",
+    "name" : "Shopping Iguatemi",
+    "latitude" : -22.918872725303427,
+    "longitude" : -43.2501459516525
   }
 ]
