@@ -784,5 +784,35 @@
     "name" : "Polícia Civil",
     "latitude" : -22.9101318121711,
     "longitude" : -43.184222614190105
+  },
+  {
+    "key" : "poupatempobangu",
+    "name" : "Poupa Tempo Bangu",
+    "latitude" : -22.878159668215893,
+    "longitude" : -43.467613644152365
+  },
+  {
+    "key" : "rioshopping",
+    "name" : "Rio Shopping",
+    "latitude" : -22.944828631046615,
+    "longitude" : -43.344632844078596
+  },
+  {
+    "key" : "campogrande1",
+    "name" : "Campo Grande 1",
+    "latitude" : -22.89486641993495,
+    "longitude" : -43.537225724885914
+  },
+  {
+    "key" : "paradadelucas",
+    "name" : "Parada de Lucas",
+    "latitude" : -22.81356731213258,
+    "longitude" : -43.29116665153094
+  },
+  {
+    "key" : "centershopping",
+    "name" : "Center Shopping",
+    "latitude" : -22.925056092586367,
+    "longitude" : -43.36116774747308
   }
 ]
