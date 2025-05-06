@@ -844,5 +844,29 @@
     "name" : "Rocinha",
     "latitude" : -22.993781473653392,
     "longitude" : -43.25166276756075
+  },
+  {
+    "key" : "marinha",
+    "name" : "Marinha",
+    "latitude" : -22.898877127094078,
+    "longitude" : -43.17693578667038
+  },
+  {
+    "key" : "jacarezinho",
+    "name" : "Jacarezinho",
+    "latitude" : -22.88296307020191,
+    "longitude" : -43.25483225621767
+  },
+  {
+    "key" : "oab",
+    "name" : "OAB",
+    "latitude" : -22.90417713434359,
+    "longitude" : -43.17525346325695
+  },
+  {
+    "key" : "muzema",
+    "name" : "Muzema",
+    "latitude" : -22.989076691193233,
+    "longitude" : -43.31093841932768
   }
 ]
