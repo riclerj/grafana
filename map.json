@@ -814,5 +814,35 @@
     "name" : "Center Shopping",
     "latitude" : -22.925056092586367,
     "longitude" : -43.36116774747308
+  },
+  {
+    "key" : "vazlobo",
+    "name" : "Vaz Lobo",
+    "latitude" : -22.858760273313116,
+    "longitude" : -43.32927684708133
+  },
+  {
+    "key" : "sulacap",
+    "name" : "Sulacap",
+    "latitude" : -22.88637373572359,
+    "longitude" : -43.40218550714482
+  },
+  {
+    "key" : "ministeriopublico",
+    "name" : "Ministério Público",
+    "latitude" : -22.907541232658765,
+    "longitude" : -43.16983715403767
+  },
+  {
+    "key" : "mare",
+    "name" : "Maré",
+    "latitude" : -22.85899213530449,
+    "longitude" : -43.24116015753058
+  },
+  {
+    "key" : "rocinha",
+    "name" : "Rocinha",
+    "latitude" : -22.993781473653392,
+    "longitude" : -43.25166276756075
   }
 ]
