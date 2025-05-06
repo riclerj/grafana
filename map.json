@@ -754,5 +754,35 @@
     "name" : "Shopping Jardim Guadalupe",
     "latitude" : -22.84092950489174,
     "longitude" : -43.368989487331596
+  },
+  {
+    "key" : "barra",
+    "name" : "Barra da Tijuca",
+    "latitude" : -22.983992048017434,
+    "longitude" : -43.36747506532871
+  },
+  {
+    "key" : "americas",
+    "name" : "Shopping Américas",
+    "latitude" : -23.009740404122557,
+    "longitude" : -43.46028582785181
+  },
+  {
+    "key" : "parquemare",
+    "name" : "Parque Maré",
+    "latitude" : -22.855915474959836,
+    "longitude" : -43.246154244636905
+  },
+  {
+    "key" : "santacruz",
+    "name" : "Santa Cruz",
+    "latitude" : -22.883338971078057,
+    "longitude" : -43.735752419346476
+  },
+  {
+    "key" : "policiacivil",
+    "name" : "Polícia Civil",
+    "latitude" : -22.9101318121711,
+    "longitude" : -43.184222614190105
   }
 ]
