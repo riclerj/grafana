@@ -868,5 +868,35 @@
     "name" : "Muzema",
     "latitude" : -22.989076691193233,
     "longitude" : -43.31093841932768
+  },
+  {
+    "key" : "fia",
+    "name" : "FIA",
+    "latitude" : -22.951524970854322,
+    "longitude" : -43.18592930976584
+  },
+  {
+    "key" : "leaoxiii",
+    "name" : "Fundação Leão XIII",
+    "latitude" : -22.909673166304387,
+    "longitude" : -43.177592376733806
+  },
+  {
+    "key" : "hospherculano",
+    "name" : "Hospital Maternidade Herculano Pinheiro",
+    "latitude" : -22.87043166073355,
+    "longitude" : -43.33498609804865
+  },
+  {
+    "key" : "hospfleming",
+    "name" : "Hospital Maternidade Alexander Fleming",
+    "latitude" : -22.864655782412203,
+    "longitude" : -43.37079366293977
+  },
+  {
+    "key" : "hosprochafaria",
+    "name" : "Hospital Rocha Faria",
+    "latitude" : -22.908143566966707,
+    "longitude" : -43.5623829402097
   }
 ]
