@@ -964,5 +964,23 @@
     "name" : "Shopping Partage",
     "latitude" : -22.820458478467085,
     "longitude" : -43.04634381246171
+  },
+  {
+    "key" : "sumidouro",
+    "name" : "Sumidouro",
+    "latitude" : -22.050426675225225,
+    "longitude" : -42.675947840059465
+  },
+  {
+    "key" : "saojoaodabarra",
+    "name" : "São João da Barra",
+    "latitude" : -21.633512335101717,
+    "longitude" : -41.04871010225326
+  },
+  {
+    "key" : "silvajardim2",
+    "name" : "Silva Jardim 2",
+    "latitude" : -22.647741004001603,
+    "longitude" : -42.395625248678904
   }
 ]
