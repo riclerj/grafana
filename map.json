@@ -982,5 +982,35 @@
     "name" : "Silva Jardim 2",
     "latitude" : -22.647741004001603,
     "longitude" : -42.395625248678904
+  },
+  {
+    "key" : "uba",
+    "name" : "São José de Ubá",
+    "latitude" : -21.360476371672462,
+    "longitude" : -41.93847170340593
+  },
+  {
+    "key" : "saojoaodemeriti2",
+    "name" : "São João de Meriti 2",
+    "latitude" : -22.77721526929504,
+    "longitude" : -43.36953783843452
+  },
+  {
+    "key" : "saojoaodemeriti1",
+    "name" : "São João de Meriti 1",
+    "latitude" : -22.647741004001603,
+    "longitude" : -42.395625248678904
+  },
+  {
+    "key" : "prefsaojoaodemeriti",
+    "name" : "Prefeitura de São João de Meriti",
+    "latitude" : -22.777139927008562,
+    "longitude" : -43.36957966527883
+  },
+  {
+    "key" : "hospitaldamulher",
+    "name" : "Hospital da Mulher Heloneida Studart",
+    "latitude" : -22.789197198279908,
+    "longitude" : -43.36497116872699
   }
 ]
