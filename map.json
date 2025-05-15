@@ -898,5 +898,11 @@
     "name" : "Hospital Rocha Faria",
     "latitude" : -22.908143566966707,
     "longitude" : -43.5623829402097
+  },
+  {
+    "key" : "novafriburgo",
+    "name" : "Nova Friburgo",
+    "latitude" : -22.261029237208437,
+    "longitude" : -42.53030527952722
   }
 ]
