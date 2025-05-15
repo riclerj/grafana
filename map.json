@@ -934,5 +934,35 @@
     "name" : "Santo Antônio de Pádua 1",
     "latitude" : -21.538100931435235,
     "longitude" : -42.1607226402127
+  },
+  {
+    "key" : "seropedica",
+    "name" : "Seropédica",
+    "latitude" : -22.80675223934512,
+    "longitude" : -43.63731844697588
+  },
+  {
+    "key" : "saofidelis",
+    "name" : "São Fidélis",
+    "latitude" : -21.651796824997856,
+    "longitude" : -41.74412318901365
+  },
+  {
+    "key" : "saofranciscoitabapoana",
+    "name" : "São Francisco de Itabapoana",
+    "latitude" : -21.478249174495335,
+    "longitude" : -41.10638915246247
+  },
+  {
+    "key" : "saogoncalo",
+    "name" : "São Gonçalo",
+    "latitude" : -22.85623046978488,
+    "longitude" : -43.099197707376604
+  },
+  {
+    "key" : "partage",
+    "name" : "Shopping Partage",
+    "latitude" : -22.820458478467085,
+    "longitude" : -43.04634381246171
   }
 ]
