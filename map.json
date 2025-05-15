@@ -904,5 +904,35 @@
     "name" : "Nova Friburgo",
     "latitude" : -22.261029237208437,
     "longitude" : -42.53030527952722
+  },
+  {
+    "key" : "westshopping",
+    "name" : "West Shopping",
+    "latitude" : -22.884386263623146,
+    "longitude" : -43.55722045453649
+  },
+  {
+    "key" : "resende",
+    "name" : "Resende",
+    "latitude" : -22.465379377766148,
+    "longitude" : -44.4525972094586
+  },
+  {
+    "key" : "patiomixresende",
+    "name" : "Shopping Pátio Mix Resende",
+    "latitude" : -22.462056702396517,
+    "longitude" : -44.4367178816778
+  },
+  {
+    "key" : "resende2",
+    "name" : "Resende 2",
+    "latitude" : -22.464808192322142,
+    "longitude" : -44.45247759195913
+  },
+  {
+    "key" : "padua1",
+    "name" : "Santo Antônio de Pádua 1",
+    "latitude" : -21.538100931435235,
+    "longitude" : -42.1607226402127
   }
 ]
