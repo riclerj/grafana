@@ -1072,5 +1072,35 @@
     "name" : "Teresópolis",
     "latitude" : -22.38530491092339,
     "longitude" : -42.95525396437911
+  },
+  {
+    "key" : "tresrios",
+    "name" : "Três Rios",
+    "latitude" : -22.11675460852243,
+    "longitude" : -43.21051806168983
+  },
+  {
+    "key" : "varresai",
+    "name" : "Varre-Sai",
+    "latitude" : -20.92754891173741,
+    "longitude" : -41.87048213778031
+  },
+  {
+    "key" : "vassouras1",
+    "name" : "Vassouras 1",
+    "latitude" : -22.404169205345706,
+    "longitude" : -43.65788500002893
+  },
+  {
+    "key" : "vassouras",
+    "name" : "Vassouras",
+    "latitude" : -22.393599559616057,
+    "longitude" : -43.65438774173851
+  },
+  {
+    "key" : "valenca2",
+    "name" : "Valença 2",
+    "latitude" : -22.2473571299802,
+    "longitude" : -43.70733176222091
   }
 ]
