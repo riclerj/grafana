@@ -1012,5 +1012,35 @@
     "name" : "Hospital da Mulher Heloneida Studart",
     "latitude" : -22.789197198279908,
     "longitude" : -43.36497116872699
+  },
+  {
+    "key" : "aldeia",
+    "name" : "São Pedro da Aldeia",
+    "latitude" : -22.834096126569417,
+    "longitude" : -42.13312129183305
+  },
+  {
+    "key" : "sapucaia",
+    "name" : "Sapucaia",
+    "latitude" : -21.99493073167034,
+    "longitude" : -42.91560445838387
+  },
+  {
+    "key" : "hospsaquarema",
+    "name" : "Hospital Saquarema",
+    "latitude" : -22.89181965486958,
+    "longitude" : -42.47863918795256
+  },
+  {
+    "key" : "saquarema",
+    "name" : "Saquarema",
+    "latitude" : -22.90281214995906,
+    "longitude" : -42.4753016056106
+  },
+  {
+    "key" : "saosebastiaodoalto",
+    "name" : "São Sebastião do Alto",
+    "latitude" : -21.955980934019433,
+    "longitude" : -42.13459834545336
   }
 ]
