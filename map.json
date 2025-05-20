@@ -992,14 +992,14 @@
   {
     "key" : "saojoaodemeriti2",
     "name" : "São João de Meriti 2",
-    "latitude" : -22.77721526929504,
-    "longitude" : -43.36953783843452
+    "latitude" : -22.77721321725725, 
+    "longitude" : -43.36953562487537
   },
   {
     "key" : "saojoaodemeriti1",
     "name" : "São João de Meriti 1",
-    "latitude" : -22.647741004001603,
-    "longitude" : -42.395625248678904
+    "latitude" : -22.776831038079294, 
+    "longitude" : -43.35983750622628
   },
   {
     "key" : "prefsaojoaodemeriti",
