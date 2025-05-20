@@ -1042,5 +1042,35 @@
     "name" : "São Sebastião do Alto",
     "latitude" : -21.955980934019433,
     "longitude" : -42.13459834545336
+  },
+  {
+    "key" : "valedoriopreto",
+    "name" : "São José do Vale do Rio Preto",
+    "latitude" : -22.157078492375902,
+    "longitude" : -42.92435621046202
+  },
+  {
+    "key" : "tangua",
+    "name" : "Tanguá",
+    "latitude" : -22.737098601211745,
+    "longitude" : -42.72624757281693
+  },
+  {
+    "key" : "trajano",
+    "name" : "Trajano de Moraes",
+    "latitude" : -22.06316387880194,
+    "longitude" : -42.06233384393316
+  },
+  {
+    "key" : "teresopolis2",
+    "name" : "Teresópolis 2",
+    "latitude" : -22.435068431833443,
+    "longitude" : -42.973693237932956
+  },
+  {
+    "key" : "teresopolis",
+    "name" : "Teresópolis",
+    "latitude" : -22.38530491092339,
+    "longitude" : -42.95525396437911
   }
 ]
