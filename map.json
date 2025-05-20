@@ -1102,5 +1102,35 @@
     "name" : "Valença 2",
     "latitude" : -22.2473571299802,
     "longitude" : -43.70733176222091
+  },
+  {
+    "key" : "valenca",
+    "name" : "Valença",
+    "latitude" : -22.23766960631175,
+    "longitude" : -43.706059561635875
+  },
+  {
+    "key" : "valenca3",
+    "name" : "Valença 3",
+    "latitude" : -22.242524355337487,
+    "longitude" : -43.70114970190282
+  },
+  {
+    "key" : "voltaredonda2",
+    "name" : "Volta Redonda 2",
+    "latitude" : -22.509290703024572,
+    "longitude" : -44.093671094698976
+  },
+  {
+    "key" : "voltaredonda",
+    "name" : "Volta Redonda",
+    "latitude" : -22.4775083115237, 
+    "longitude" : -44.07132734508114
+  },
+  {
+    "key" : "voltaredonda1",
+    "name" : "Volta Redonda 1",
+    "latitude" : -22.521666886657822,
+    "longitude" : -44.07941816310239
   }
 ]
