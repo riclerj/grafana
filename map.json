@@ -1132,5 +1132,11 @@
     "name" : "Volta Redonda 1",
     "latitude" : -22.521666886657822,
     "longitude" : -44.07941816310239
+  },
+  {
+    "key" : "hospazevedo",
+    "name" : "Hospital Azevedo Lima",
+    "latitude" : -22.879945887810425,
+    "longitude" : -43.07794436754004
   }
 ]
