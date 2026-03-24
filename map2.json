@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "ceasa",
+        "name": "CEASA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.336112, -22.827556]
+      }
+    }
+  ]
+}
